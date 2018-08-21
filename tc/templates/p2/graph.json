@@ -48,6 +48,13 @@
         ]    ], 
     "edges": [
         [
+            "node5", 
+            "node8", 
+            {
+                "weight": 0
+            }
+        ], 
+        [
             "node1", 
             "node5", 
             {
@@ -70,6 +77,13 @@
         ], 
         [
             "node5", 
+            "node9", 
+            {
+                "weight": 0
+            }
+        ], 
+        [
+            "node5", 
             "node6", 
             {
                 "weight": 0
@@ -78,20 +92,6 @@
         [
             "node5", 
             "node7", 
-            {
-                "weight": 0
-            }
-        ], 
-        [
-            "node5", 
-            "node8", 
-            {
-                "weight": 0
-            }
-        ], 
-        [
-            "node5", 
-            "node9", 
             {
                 "weight": 0
             }
@@ -141,6 +141,12 @@
         ], 
         [
             "node9", 
+            {
+                "weight": 0
+            }
+        ], 
+        [
+            "n1", 
             {
                 "weight": 0
             }
