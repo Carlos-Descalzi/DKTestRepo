@@ -24,6 +24,12 @@
     }
 , 
     "variation-list": {
+        "gtt": {
+            "environment-setting": "env", 
+            "mesos-setting": "production-mesos", 
+            "override-setting": [
+                "production-overrides"            ]
+        }
 
     }
 
