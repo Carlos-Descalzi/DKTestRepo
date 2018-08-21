@@ -1,6 +1,9 @@
 {
     "active-variation": "", 
     "environment-setting-list": {
+        "env": {
+            "f": "x"
+        }
 
     }
 , 
