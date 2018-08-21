@@ -11,7 +11,10 @@
     ], 
     "mesos-setting-list": {
         "production-mesos": {
-            "schedule": "now"
+            "schedule": "now", 
+            "epsilon": "PT30M", 
+            "max-ram": 500, 
+            "max-disk": 10240
         }
 
     }
